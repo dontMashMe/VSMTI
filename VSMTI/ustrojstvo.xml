@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+  <Ustrojstvo>
+    <Jedinica id = "1" name = "Upravno vijece"/>
+    <Jedinica id = "2" name = "Strucno vijece" />
+    <Dekanat>
+      <Podjedinica id = "3" name = "Dekan"/>
+      <Podjedinica id = "4" name = "Prodekan za nastavu"/>
+      <Podjedinica id = "5" name = "Prodekan za razvoj"/>
+    </Dekanat>
+    <Odjeli>
+      <Odjel id = "6" name = "Odjel za ICT"/>
+      <Odjel id = "7" name = "Odjel za ekonomiju"/>
+      <Odjel id = "8" name = "Odjel za turizam"/>
+    </Odjeli>
+    <Centri>
+      <Centar id = "9" name = "Centar za informaticku potporu"/>
+      <Centar id = "10" name = "Centar za knjiznicku i izdavacku djelatnost"/>
+      <Centar id = "11" name = "Centar za upravljanje kvalitetom"/>
+      <Centar id = "12" name = "Centar za istrazivanje i razvoj"/>
+    </Centri>
+    <ZajednickeSluzbe>
+      <Sluzba id = "13" name = "Tajnistvo"/>
+      <Sluzba id = "14" name = "Referada"/>
+      <Sluzba id = "15" name = "Racunovodstvo"/>
+      <Sluzba id = "16" name = "Pomocna tehnicka sluzba"/>
+    </ZajednickeSluzbe>
+  </Ustrojstvo>
+</data>

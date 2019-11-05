@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Zaposlenik" Collapsed="true">
+    <Position X="1.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAACAAAAAAAAAQAAAEAAAAAAAEAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Zaposlenik.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Uloga" Collapsed="true">
+    <Position X="1.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAIAAAACAAAAAAAAAAAAAEAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Uloga.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ustrojstvo" Collapsed="true">
+    <Position X="7" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAACAAAAAAAAAAACAAAEAAQAAAAAAAAAAgA=</HashCode>
+      <FileName>Ustrojstvo.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Centar" Collapsed="true">
+    <Position X="3.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAIAAAgAAAAAAAAAAAAA=</HashCode>
+      <FileName>Centar.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dekanat" Collapsed="true">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAIAAA=</HashCode>
+      <FileName>Dekanat.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Odjel" Collapsed="true">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAABAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Odjel.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ZajednickeSluzbe" Collapsed="true">
+    <Position X="10.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ZajednickeSluzbe.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
